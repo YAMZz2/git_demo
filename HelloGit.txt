@@ -7,3 +7,4 @@ Hello Git!!
 Hello Git!!
 Hot-fix
 master updated
+hot-fix updated
